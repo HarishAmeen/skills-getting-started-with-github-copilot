@@ -27,31 +27,31 @@ activities = {
         "max_participants": 15,
         "participants": ["alex@mergington.edu"]
         },
-        "Tennis Club": {
+    "Tennis Club": {
         "description": "Master tennis techniques and participate in tournaments",
         "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 10,
         "participants": ["james@mergington.edu"]
         },
-        "Art Studio": {
+    "Art Studio": {
         "description": "Explore painting, drawing, and mixed media techniques",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 16,
         "participants": ["isabella@mergington.edu", "grace@mergington.edu"]
         },
-        "Drama Club": {
+    "Drama Club": {
         "description": "Perform in theatrical productions and develop acting skills",
         "schedule": "Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 20,
         "participants": ["noah@mergington.edu"]
         },
-        "Debate Team": {
+    "Debate Team": {
         "description": "Develop argumentation and public speaking skills",
         "schedule": "Mondays and Thursdays, 3:30 PM - 4:30 PM",
         "max_participants": 14,
         "participants": ["sophia@mergington.edu", "lucas@mergington.edu"]
         },
-        "Science Club": {
+    "Science Club": {
         "description": "Conduct experiments and explore scientific concepts",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 18,
